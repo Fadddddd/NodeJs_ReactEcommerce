@@ -5,8 +5,8 @@ import Rose from "../assets/rose.jpg";
 function Produits() {
   return (
     <div className="Produits">
-      {/* <h2>Voici nos produits</h2> */}
-      {/*  <section className="Selection">
+      <h2>Voici nos produits</h2> 
+       <section className="Selection">
                 <ul>
                     <li>
                         Cactus plutôt mignon<img src={Cactus} className="cactusounet" alt="cactus bon sang!" />
@@ -21,7 +21,7 @@ function Produits() {
                         <button>Clique, tu le veux!</button>
                     </li>
                 </ul>
-            </section> */}
+            </section> 
     </div>
   );
 }
